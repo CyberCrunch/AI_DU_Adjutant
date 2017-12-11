@@ -1,0 +1,40 @@
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Bot Application.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Bot Application.pdb
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Autofac.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Chronic.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Builder.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Connector.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Newtonsoft.Json.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Net.Http.Formatting.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Web.Http.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Web.Http.WebHost.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Autofac.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Builder.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.Bot.Connector.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\Newtonsoft.Json.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Net.Http.Formatting.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Web.Http.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\System.Web.Http.WebHost.xml
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\obj\Debug\DU_CortanaAdjutant.csprojResolveAssemblyReference.cache
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\obj\Debug\DU_CortanaAdjutant.csproj.CoreCompileInputs.cache
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\obj\Debug\Bot Application.dll
+C:\Users\robin\Documents\17VisualStudio\DU_CortanaAdjutant\DU_CortanaAdjutant\obj\Debug\Bot Application.pdb
