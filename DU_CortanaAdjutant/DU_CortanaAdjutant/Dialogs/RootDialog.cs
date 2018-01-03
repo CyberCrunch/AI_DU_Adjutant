@@ -23,6 +23,18 @@ namespace DU_CortanaAdjutant.Dialogs
             activity.Text = activity.Text ?? string.Empty;
 
             // check if the user said reset
+            if (activity.Text.ToLowerInvariant().StartsWith("conversation"))
+            {
+                // ask the user to confirm if they want to reset the counter
+                var options = new PromptOptions<string>(prompt: "is this modified code workig?",
+                    retry: "Didn't get that!", speak: "is this modified code workig?",
+                    retrySpeak: "You can say yes or no!",
+                    options: PromptDialog.PromptConfirm.Options,
+                    promptStyler: new PromptStyler());
+
+                PromptDialog.Confirm(context, AfterResetAsync, options);
+
+            }
             if (activity.Text.ToLowerInvariant().StartsWith("reset"))
             {
                 // ask the user to confirm if they want to reset the counter
